@@ -1,3 +1,3 @@
 # Example FinOps Job Descriptions
 
-* [LiveRamp: Cloud Optimization and Governance Specialist](liveramp-cloud-optimization-governance-specialist.md)
+This repository is for sample job descriptions. Check the list above.
